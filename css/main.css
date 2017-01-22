@@ -1,0 +1,9 @@
+body {
+    padding: 0;
+    margin: 0;
+}
+
+#app canvas {
+    margin-left: auto;
+    margin-right: auto;
+}
