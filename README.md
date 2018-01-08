@@ -1,10 +1,10 @@
 # webpack-phaser-template
-##Install:
+## Install:
 ```
 npm install
 ```
 All compilation and necessary scripts can be found in local <a href="./package.json" >package.json</a>
-##Development
+## Development
 ```
 npm run [command]
 ```
@@ -14,5 +14,5 @@ npm run [command]
 * **`dev`**     runs webpack only once with dev settings
 * **`watch`**   runs webpack watcher and compile code with dev settings
 * **`hot`**     runs webpack dev server for continuous development
-##Production
+## Production
 * **`build`**   runs **webpack** with production settings. (ES6 to ES5 via babel, minification etc.)
