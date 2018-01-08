@@ -1,5 +1,5 @@
 # webpack-phaser-template
-## Install:
+## Install
 ```
 npm install
 ```
