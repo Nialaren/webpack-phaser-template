@@ -1,11 +1,11 @@
 # webpack-phaser-template
 ## Install
-```
+```sh
 npm install
 ```
 All compilation and necessary scripts can be found in local <a href="./package.json" >package.json</a>
 ## Development
-```
+```sh
 npm run [command]
 ```
 **Commands:**
